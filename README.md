@@ -5,8 +5,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-Platform-blue)
 ![Arduino](https://img.shields.io/badge/Arduino-Framework-orange)
 
-![Mobile UI](images/mobile_ui.jpg)
-![Web UI](images/web_ui.png)
 
 
 An advanced IoT lighting control system for exhibitions based on ESP32, combining NeoPixel LED strips and dimmable halogen lamps with remote control via Blynk IoT.
@@ -133,3 +131,8 @@ System supports Over-The-Air updates:
 
 ## 📄 License
 Open-source project for personal and educational use.
+
+## UI
+<img src="/images/mobile_ui.jpg" height="400"/>
+<img src="/images/web_ui.png" height="400"/>
+
