@@ -1,5 +1,14 @@
 # ESP32 Smart Lighting Control System
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![ESP32](https://img.shields.io/badge/ESP32-Platform-blue)
+![Arduino](https://img.shields.io/badge/Arduino-Framework-orange)
+
+![Mobile UI](images/mobile_ui.jpg)
+![Web UI](images/web_ui.png)
+
+
 An advanced IoT lighting control system for exhibitions based on ESP32, combining NeoPixel LED strips and dimmable halogen lamps with remote control via Blynk IoT.
 
 ## 🚀 Features
